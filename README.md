@@ -1,2 +1,2 @@
 # PenPal
-This is basic chatting application 
+This is basic chating application 
